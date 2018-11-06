@@ -1,0 +1,11 @@
+D:\MVC\CoreMVC\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.deps.json
+D:\MVC\CoreMVC\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.runtimeconfig.json
+D:\MVC\CoreMVC\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.runtimeconfig.dev.json
+D:\MVC\CoreMVC\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.dll
+D:\MVC\CoreMVC\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.pdb
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.csprojResolveAssemblyReference.cache
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.csproj.CoreCompileInputs.cache
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfoInputs.cache
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfo.cs
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.dll
+D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.pdb
