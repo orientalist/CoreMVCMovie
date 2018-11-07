@@ -9,3 +9,14 @@ D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfoInputs.cache
 D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfo.cs
 D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.dll
 D:\MVC\CoreMVC\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.pdb
+C:\Git\CoreMVCMovie\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.deps.json
+C:\Git\CoreMVCMovie\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.runtimeconfig.json
+C:\Git\CoreMVCMovie\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.runtimeconfig.dev.json
+C:\Git\CoreMVCMovie\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.dll
+C:\Git\CoreMVCMovie\CoreMVC\bin\Debug\netcoreapp2.0\CoreMVC.pdb
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.csprojResolveAssemblyReference.cache
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.csproj.CoreCompileInputs.cache
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfoInputs.cache
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.AssemblyInfo.cs
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.dll
+C:\Git\CoreMVCMovie\CoreMVC\obj\Debug\netcoreapp2.0\CoreMVC.pdb
